@@ -1,0 +1,9 @@
+#pragma once
+
+#define RED_LED_PIN    13
+#define GREEN_LED_PIN  17
+#define YELLOW_LED_PIN 18
+
+#define RED_LED_BLINK_INTERVAL    200
+#define GREEN_LED_BLINK_INTERVAL  500
+#define YELLOW_LED_BLINK_INTERVAL 1000
